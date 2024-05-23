@@ -1,3 +1,4 @@
+ <img src="https://strapi.dhiwise.com/uploads/django_react_OG_Image_c6cfb497c1.webp" alt="coding" width="955" height="318">
 <h1 align="center">Assalamulaikum 👋, I'm Harun Or Rashid</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
