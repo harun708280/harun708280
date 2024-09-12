@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ai-Quest**
 
-- 📫 How to reach me **harun708280@gmial.com**
+- 📫 How to reach me **harun708280@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/Harun-LT/AppData/Local/Microsoft/Windows/INetCache/IE/0J01YEZN/Harun%20OR%20Rashid[1].pdf](file:///C:/Users/Harun-LT/AppData/Local/Microsoft/Windows/INetCache/IE/0J01YEZN/Harun%20OR%20Rashid[1].pdf)
 
