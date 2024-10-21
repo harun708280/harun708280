@@ -1,17 +1,16 @@
  <img src="https://cdn.servermania.com/kb/KB-MERN-Featured.jpg" alt="coding" width="955" height="318">
 <h1 align="center">Assalamulaikum 👋, I'm Harun Or Rashid</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+
 
 <img align='right' alt='coding' width='400' src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunbd80&label=Profile%20views&color=0e75b6&style=flat" alt="harunbd80" /> </p>
 
-- 🌱 I’m currently learning **Ai-Quest**
+- 🌱 I’m  learning **Ai-Quest & Programing Hero**
 
 - 📫 How to reach me **harun708280@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Harun-LT/AppData/Local/Microsoft/Windows/INetCache/IE/0J01YEZN/Harun%20OR%20Rashid[1].pdf](file:///C:/Users/Harun-LT/AppData/Local/Microsoft/Windows/INetCache/IE/0J01YEZN/Harun%20OR%20Rashid[1].pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
