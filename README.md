@@ -1,4 +1,4 @@
- <img src="[https://strapi.dhiwise.com/uploads/django_react_OG_Image_c6cfb497c1.webp](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1)" alt="coding" width="955" height="318">
+ <img src="https://cdn.servermania.com/kb/KB-MERN-Featured.jpg" alt="coding" width="955" height="318">
 <h1 align="center">Assalamulaikum 👋, I'm Harun Or Rashid</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
