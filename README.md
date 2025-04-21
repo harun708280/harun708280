@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/xq2B9JNB/Harun-Or-Rashid.png" alt="Harun's Banner" width="100%" />
+  <img src="https://img-c.udemycdn.com/course/750x422/2811567_554f_5.jpg" alt="Harun's Banner" width="100%" />
 </p>
 <h1 align="center">Assalamulaikum 👋, I'm Harun Or Rashid</h1>
 <h3 align="">I am a Computer Science student at Rangpur Polytechnic Institute, passionate about web development and building innovative projects. Currently, I am exploring different technologies and honing my skills in full-stack development. Here are some of the activities I’m involved in:</h3>
